@@ -1,0 +1,212 @@
+.icon_header,.welcome_div,.icon_header_2{ float: left; }
+.container_infor,.body_image{float:left;}
+.label_login, .input_login{float:left;}
+body //conf default for body
+{
+	font-family: 'Raleway', sans-serif;
+	font-size: 12px;
+	color: #4262e10;
+	margin: 0px;
+	padding: 0px;
+}
+
+a
+{
+	font-family: Raleway, sans-serif;
+	font-size: 13px;
+	color:#660000;
+	border: none;
+	text-decoration: none;
+}
+a:hover /*change color khi re chuột vào*/
+{
+	color:#1affff;
+}
+
+p
+{
+
+	font-family: Raleway , sans-serif;
+	font-size: 12px;
+	color:#660000;
+}
+
+.background_web
+{
+	background-color: #660000;
+	width: 100%;
+	height: 100%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.header
+{
+	width: 1200px;
+	height: 66px;
+	background-color: #fff;
+	margin:10px 160px 0px 160px;
+	
+
+}
+
+.fa-cannabis
+{
+	font-size: 50px;
+	color: #660000;
+	margin: 8px;
+}
+
+.icon_header
+{
+	width: 70px;
+	height: 50px;
+	
+}
+
+.welcome_div
+{
+	width: 600px;
+	height: 50px;
+	margin: -40px 300px -20px 300px;
+	font-family: Raleway , sans-serif;
+	font-size: 40px;
+	color:#660000;
+}
+
+.icon_header_2
+{
+	width: 70px;
+	height: 50px;
+	margin-left: 1130px;
+	margin-top: -50px;
+}
+	
+.body_div
+{
+	width: 1200px;
+	height: 1200px;
+	background-color: #fff;
+	margin:20px 160px 0px 160px;
+	border-radius: 20px;
+
+}
+
+.container_infor
+{
+	width: 365px;
+	height: 1200px;
+}
+.infor
+{
+	width: 300px;
+	height: 320px;
+	margin-top: 30px;
+	margin-left: 25px;
+	background-color: #fff;
+	border: solid;
+	border-width: 6px;
+	border-color: #660000;
+	border-radius: 20px;
+}
+
+.log_in_text
+{
+	width: 200px;
+	height: 50px;
+	margin: 20px 50px 0px 50px;
+	font-family: Raleway , sans-serif;
+	font-size: 30px;
+	color:#660000;
+}
+
+.input_login
+{
+	outline: none;
+	width: 150px;
+	margin-left: 10px;
+	margin-top: 20px;
+	border: solid;
+	border-radius: 20px;
+	border-color: #660000;
+	border-width: 3px;
+}
+
+.label_login
+{
+	height: 20px;
+	width: 70px;
+	margin: 20px;
+	font-family: Raleway , sans-serif;
+	font-size: 13px;
+	color:#660000;
+	font-weight: bold;
+	
+
+}
+
+.submit
+{
+	outline:none;
+	width: 120px;
+	height: 30px;
+	background-color: #660000;
+	font-family: Raleway,sans-serif;
+	font-size: 13px;
+	color: #fff;
+	margin-top: 30px;
+	margin-left: 90px;
+	border-radius: 20px;
+	border-color: #660000;
+}
+
+
+
+.body_image
+{
+	float:left;
+	height: 505px;
+	width: 800px;
+	background-color: #fff;
+	border: solid;
+	border-width: 6px;
+	border-color: #660000;
+	border-radius: 20px;
+	margin-top: 30px;
+	
+}
+
+
+.image
+{
+	border-radius: 20px;
+	
+	width: 790px;
+	margin-top: 5px;
+}
+
+h2
+{
+	font-family: Raleway, sans-serif;
+	color:#660000;
+	border: none;
+	
+}
+
+.userinfor
+{
+	font-family: Raleway,sans-serif;
+	font-size: 15px;
+	color: #660000;
+	margin-left: 30px;
+}
+.my_infor 
+{
+	font-size: 15px;
+}
+.avatar
+{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+}
